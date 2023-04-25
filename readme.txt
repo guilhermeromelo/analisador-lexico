@@ -1,0 +1,1 @@
+Para testar o programa, execute o método main presente na classe AnalisadorLexico.
